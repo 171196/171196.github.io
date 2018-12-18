@@ -14,7 +14,7 @@ Give them a try:
 - Headings 1, 2, 3 (`Ctrl+1`, `Ctrl+2`, `Ctrl+3`)
   - Lists (`Ctrl+U` and `Ctrl+Shift+O`)
     - aaa
-     
+[kor Park](wooriapt79@gmail.com.com)
 ### See your changes instantly with LivePreview ###
 
 Don't guess if your [hyperlink syntax](http://zalo.com) is correct; LivePreview will show you exactly what your document looks like every time you press a key.
