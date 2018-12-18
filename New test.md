@@ -13,7 +13,7 @@ Give them a try:
 - Code blocks (`Ctrl+K`)
 - Headings 1, 2, 3 (`Ctrl+1`, `Ctrl+2`, `Ctrl+3`)
   - Lists (`Ctrl+U` and `Ctrl+Shift+O`)
-    - aaa
+    -   aaa   
 [kor Park](wooriapt79@gmail.com.com)
 ### See your changes instantly with LivePreview ###
 
